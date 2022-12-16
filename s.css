@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+}
+nav a{
+    padding:20px;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 32px;
+}
+nav a:hover, nav a :active{
+    text-decoration: underline;
+}
+.wrapper{
+    width: 1440px;
+    height: 1680px;
+    margin:  auto;
+    background-color: black;
+}
+
+header{
+    position: fixed;
+    height: 82px;
+}
+.container{
+    display:flex;
+}
+.table {
+    margin: 0;
+    padding-bottom: 20px;
+    position: absolute;
+    justify-content: center;
+    width: 1440px;
+    display: flex;
+}
+nav {
+    width: 1440px;
+    height: 75px;
+    background-color: rgb(140, 120, 120);
+}
+main{
+    margin-top: 60px;
+    width:1440px;
+    text-justify: auto;
+}
+.osnvn_text {
+    margin-left: 227px;
+    margin-top: 146px;
+}
+h1 {
+    font-size: 64px;
+    color: white;
+    margin-top: 10px;
+}
+h2 {
+    color: rgb(193, 146, 132);
+    font-size: 48px;
+}
+.osnvn_text h3 {
+    font-size: 48px;
+    color: rgb(193, 146, 132);
+    margin-bottom: 10px;
+}
+.color_side {
+    width: 1440px;
+    height: 270px;
+    background-color: rgba(140, 120, 120, 0.65);
+    margin-top: 270px;
+    margin-bottom: 105px;
+}
+.color_side p {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    width: 900px;
+    margin: auto;
+    padding-top: 57px;
+}
+body {
+    margin: 0;
+}
+.img_f1 {
+    background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1637778352878-f0b46d574a04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+}
+.table_html_figm th{
+    color: rgb(193, 146, 132);
+    font-size: 48px;
+}
+.table_html_figm td{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 68px;
+    
+}
+.table_html_figm {
+    margin: 0px 172px;
+    font-size: 32px;
+
+}
+.polosa1 {
+    background-color: rgb(140, 120, 120);
+    width: 1440px;
+    height: 10px;
+}
+.img_f2 {
+    background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1618022325802-7e5e732d97a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80);
+}
+
