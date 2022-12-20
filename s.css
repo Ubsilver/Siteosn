@@ -64,8 +64,8 @@ h2 {
     width: 1440px;
     height: 270px;
     background-color: rgba(140, 120, 120, 0.65);
-    margin-top: 270px;
-    margin-bottom: 105px;
+    margin-top: 80px;
+    margin-bottom: 55px;
 }
 .color_side p {
     font-size: 60px;
@@ -104,10 +104,53 @@ body {
     width: 1440px;
     height: 10px;
 }
+.polosa2 {
+    background-color: rgb(140, 120, 120);
+    width: 1140px;
+    height: 5px;
+    margin: 20px auto;
+}
+.polosa3 {
+    background-color: rgb(140, 120, 120);
+    width: 1440px;
+    height: 10px;
+}
+
 .img_f2 {
     background-size: 100%;
     background-position: top center;
     background-repeat: no-repeat;
     background-image: url(https://images.unsplash.com/photo-1618022325802-7e5e732d97a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=748&q=80);
 }
+.img_f3 {
+    background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image: url(https://images.unsplash.com/photo-1489257900339-13e688fb85fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+}
+.img_f2 h2 {
+    text-align: center;
+}
+.img_f2 p {
+    color: rgb(193, 146, 132);
+    font-size: 48px;
+    margin: 0px 172px;}
+.box_html {
+    margin: 0px 145px;
+    align-items: center;
+    width: 1145px;
+}
+.box_html img {
+    width: 379px;
+}
+.box_figm {
+    margin: 0px 145px;
+    align-items: center;
+    width: 1145px;
+}
+.box_figm img {
+    width: 379px;
+}
+
+
 
