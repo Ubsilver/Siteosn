@@ -81,6 +81,7 @@ h2 {
 }
 body {
     margin: 0;
+    background-color: black;
 }
 .img_f1 {
     background-size: 100%;
