@@ -55,6 +55,10 @@ h2 {
     color: rgb(193, 146, 132);
     font-size: 48px;
 }
+.nomargin {
+    margin: 0;
+    padding: 0;
+}
 .osnvn_text h3 {
     font-size: 48px;
     color: rgb(193, 146, 132);
