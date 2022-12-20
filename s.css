@@ -44,8 +44,13 @@ main{
 }
 .osnvn_text {
     margin-left: 227px;
-    margin-top: 146px;
+    margin-top: 0px;
 }
+.osnvn_text h3 {
+    margin-top: 0px;
+    padding-top: 100px;
+}
+
 h1 {
     font-size: 64px;
     color: white;
@@ -65,12 +70,23 @@ h2 {
     margin-bottom: 10px;
 }
 .color_side {
-    width: 1440px;
     height: 270px;
     background-color: rgba(140, 120, 120, 0.65);
     margin-top: 80px;
     margin-bottom: 55px;
 }
+.footer {
+    height: 150px;
+    background-color: rgba(140, 120, 120);
+    font-size: 32px;
+    color: white;
+    text-align: center;
+}
+.footer p {
+    padding: 60px 0px ;
+    margin-top: 0;
+}
+
 .color_side p {
     font-size: 60px;
     color: white;
@@ -106,7 +122,6 @@ body {
 }
 .polosa1 {
     background-color: rgb(140, 120, 120);
-    width: 1440px;
     height: 10px;
 }
 .polosa2 {
@@ -117,7 +132,6 @@ body {
 }
 .polosa3 {
     background-color: rgb(140, 120, 120);
-    width: 1440px;
     height: 10px;
 }
 
@@ -129,14 +143,15 @@ body {
 }
 .img_f3 {
     padding-top: 70px;
-
-    background-size: 100%;
+    background-size: 170%;
     background-position: top center;
     background-repeat: no-repeat;
     background-image: url(https://images.unsplash.com/photo-1489257900339-13e688fb85fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
 }
 .img_f2 h2 {
     text-align: center;
+    padding-top: 60px;
+    margin-top: 0px;
 }
 .img_f2 p {
     color: rgb(193, 146, 132);
@@ -146,17 +161,21 @@ body {
     margin: 0px 145px;
     align-items: center;
     width: 1145px;
+    padding-bottom: 50px;
+
 }
 .box_html img {
     width: 379px;
 }
 .box_figm {
+    padding-bottom: 50px;
     margin: 0px 145px;
     align-items: center;
     width: 1145px;
 }
 .box_figm img {
     width: 379px;
+    margin-top: 0;
 }
 .img_f3 h2 {
     text-align: center;
@@ -169,8 +188,27 @@ body {
     margin-left: 150px;
     border: 2px solid ;
     border-color: rgb(193, 146, 132);
+    margin-bottom: 85px;
 
 }
+.bloks {
+    display: flex;
+    color: white;
+}
+.bloks p {
+    margin: 80px 150px 80px 100px;
+    font-size: 32px;
+}
+.contakt {
+    display: flex;
+    color: rgb(193, 146, 132);
+    font-size: 32px;
+}
+.contakt p {
+    margin: 150px;
+
+}
+
 
 
 
