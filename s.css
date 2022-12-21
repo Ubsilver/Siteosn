@@ -83,8 +83,8 @@ h2 {
     text-align: center;
 }
 .footer p {
-    margin-top: 0;
-    padding: 60px 0px ;
+    margin: 0 ;
+    padding: 55px 0px ;
 
 }
 
@@ -206,7 +206,7 @@ body {
     font-size: 32px;
 }
 .contakt p {
-    margin: 150px;
+    margin: 100px 150px;
 
 }
 
