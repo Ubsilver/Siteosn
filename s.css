@@ -3,7 +3,7 @@
 }
 nav a{
     padding:20px;
-    color:rgb(255, 255, 255);
+    color: whitesmoke;
     text-decoration: none;
     font-size: 32px;
 }
@@ -31,6 +31,8 @@ header{
     justify-content: center;
     width: 1440px;
     display: flex;
+    
+    border-spacing: 20px;
 }
 nav {
     width: 1440px;
@@ -53,7 +55,7 @@ main{
 
 h1 {
     font-size: 64px;
-    color: white;
+    color: whitesmoke;
     margin-top: 10px;
 }
 h2 {
@@ -79,7 +81,7 @@ h2 {
     height: 150px;
     background-color: rgba(140, 120, 120);
     font-size: 32px;
-    color: white;
+    color: whitesmoke;
     text-align: center;
 }
 .footer p {
@@ -90,7 +92,7 @@ h2 {
 
 .color_side p {
     font-size: 60px;
-    color: white;
+    color: whitesmoke;
     text-align: center;
     width: 900px;
     margin: auto;
@@ -111,7 +113,7 @@ body {
     font-size: 48px;
 }
 .table_html_figm td{
-    color: white;
+    color: whitesmoke;
     padding-top: 20px;
     padding-bottom: 68px;
     
@@ -119,6 +121,9 @@ body {
 .table_html_figm {
     margin: 0px 172px;
     font-size: 32px;
+    border-spacing: 30px;
+
+
 
 }
 .polosa1 {
@@ -194,7 +199,7 @@ body {
 }
 .bloks {
     display: flex;
-    color: white;
+    color: whitesmoke;
 }
 .bloks p {
     margin: 80px 150px 80px 100px;
@@ -202,7 +207,7 @@ body {
 }
 .contakt {
     display: flex;
-    color: rgb(193, 146, 132);
+    color: whitesmoke;
     font-size: 32px;
 }
 .contakt p {
